@@ -10,9 +10,9 @@ Our current focus project is **vATCSuite**, providing air traffic control utilit
 
 ## 🌈 Contributing
 
-We welcome contributions to our open-source projects! Check out the projects on our [GitHub]([https://github.com/vmgware](https://github.com/VMGWARE)) to get involved.
+We welcome contributions to our open-source projects! Check out the projects on our [GitHub](https://github.com/VMGWARE) to get involved.
 
-To start, take a look at the open issues labeled `good first issue` or `help wanted`. Read our [contributing docs]([https://github.com/vmgware](https://github.com/VMGWARE)/.github/blob/main/CONTRIBUTING.md) for guidelines.
+To start, take a look at the open issues labeled `good first issue` or `help wanted`. Read our docs for guidelines.
 
 ## 👩‍💻 Resources
 
